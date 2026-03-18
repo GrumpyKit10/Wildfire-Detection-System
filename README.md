@@ -14,6 +14,18 @@ The system is designed to:
 
 ---
 
+## 🎥 Live Demo
+
+[![Watch the demo](https://img.youtube.com/vi/XLH8NUzlGDA/0.jpg)](https://youtu.be/XLH8NUzlGDA)
+
+This demo showcases a live field test of the Wildfire, Forest Fire, and Detection System, including:
+- Real-time sensor monitoring
+- Fire condition detection and alert triggering
+- Data transmission to AWS and visualization on the dashboard
+- Event-based camera activation
+
+---
+
 ## 🧠 Key Features
 
 - 🔍 **Multi-Sensor Fire Detection**
